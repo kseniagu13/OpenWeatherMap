@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{5B2A6593-D4A6-40EA-8173-0496F09B9EBF}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="OpenWeatherMap/Program.cs">
+    <Files>
+      <File FileName="OpenWeatherMap/Program.cs" Line="36" Column="2" />
+      <File FileName="OpenWeatherMap/WeatherDetails.cs" Line="27" Column="40" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="OpenWeatherMap" expanded="True">
+            <Node name="OpenWeatherMap" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.OpenWeatherMap PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

@@ -1,0 +1,13 @@
+/Users/kseniagustsenko/Desktop/OpenWeatherMap/OpenWeatherMap/bin/Debug/netcoreapp3.0/OpenWeatherMap
+/Users/kseniagustsenko/Desktop/OpenWeatherMap/OpenWeatherMap/bin/Debug/netcoreapp3.0/OpenWeatherMap.deps.json
+/Users/kseniagustsenko/Desktop/OpenWeatherMap/OpenWeatherMap/bin/Debug/netcoreapp3.0/OpenWeatherMap.runtimeconfig.json
+/Users/kseniagustsenko/Desktop/OpenWeatherMap/OpenWeatherMap/bin/Debug/netcoreapp3.0/OpenWeatherMap.runtimeconfig.dev.json
+/Users/kseniagustsenko/Desktop/OpenWeatherMap/OpenWeatherMap/bin/Debug/netcoreapp3.0/OpenWeatherMap.dll
+/Users/kseniagustsenko/Desktop/OpenWeatherMap/OpenWeatherMap/bin/Debug/netcoreapp3.0/OpenWeatherMap.pdb
+/Users/kseniagustsenko/Desktop/OpenWeatherMap/OpenWeatherMap/bin/Debug/netcoreapp3.0/Newtonsoft.Json.dll
+/Users/kseniagustsenko/Desktop/OpenWeatherMap/OpenWeatherMap/obj/Debug/netcoreapp3.0/OpenWeatherMap.csprojAssemblyReference.cache
+/Users/kseniagustsenko/Desktop/OpenWeatherMap/OpenWeatherMap/obj/Debug/netcoreapp3.0/OpenWeatherMap.AssemblyInfoInputs.cache
+/Users/kseniagustsenko/Desktop/OpenWeatherMap/OpenWeatherMap/obj/Debug/netcoreapp3.0/OpenWeatherMap.AssemblyInfo.cs
+/Users/kseniagustsenko/Desktop/OpenWeatherMap/OpenWeatherMap/obj/Debug/netcoreapp3.0/OpenWeatherMap.csproj.CopyComplete
+/Users/kseniagustsenko/Desktop/OpenWeatherMap/OpenWeatherMap/obj/Debug/netcoreapp3.0/OpenWeatherMap.dll
+/Users/kseniagustsenko/Desktop/OpenWeatherMap/OpenWeatherMap/obj/Debug/netcoreapp3.0/OpenWeatherMap.pdb
